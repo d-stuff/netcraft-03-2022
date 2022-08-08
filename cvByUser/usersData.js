@@ -1,6 +1,6 @@
 // const URL='https://htmlpreview.github.io/?https://github.com/d-stuff/netcraft-03-2022/blob/main/'
 export const users=[
-    {name:"ben",cv:'Ben-Or/BenOrHabariResume.html'},
+    {name:"ben-or",cv:'Ben-Or/BenOrHabariResume.html'},
     {name:"michael",cv:'Michael/index.html'},
     {name:"shaked",cv:'Shaked/index.html'},
     {name:"adi",cv:'adi/index.html'},
